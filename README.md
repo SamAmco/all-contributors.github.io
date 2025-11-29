@@ -48,7 +48,7 @@ The [specification](https://allcontributors.org/docs/en/specification) is detail
 
 ## Emoji key
 
-The [Emoji Key](https://allcontributors.org/docs/en/emoji-key) ✨ (and Contribution Types) can be found on [allcontributors.org](https://allcontributors.org)
+The [Emoji Key](https://allcontributors.org/emoji-key/) ✨ (and Contribution Types) can be found on [allcontributors.org](https://allcontributors.org)
 
 ## Contributing
 
