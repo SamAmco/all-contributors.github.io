@@ -24,11 +24,11 @@ Below is an example of how using the all-contributors spec table can recognize a
 
 ![All Contributors Table Screenshot](src/assets/contributors-table-small.png)
 
-> You can use [the @all-contributors bot 🤖](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your open source projects
+> You can use [the @all-contributors bot 🤖](https://allcontributors.org/bot/overview) to automate acknowledging contributors to your open source projects
 
 ## Specification
 
-The [specification](https://allcontributors.org/docs/en/specification) is detailed on [allcontributors.org](https://allcontributors.org)
+The [specification](https://allcontributors.org/specification) is detailed on [allcontributors.org](https://allcontributors.org)
 
 ## Emoji key
 
@@ -38,11 +38,11 @@ The [Emoji Key](https://allcontributors.org/emoji-key/) ✨ (and Contribution Ty
 
 If you've ever wanted to contribute to open source, and a great cause, now is your chance!
 
-See the [contributing docs](https://allcontributors.org/docs/en/project/contribute) for more information
+See the [contributing docs](https://allcontributors.org/project/contribute) for more information
 
 ## Contributors ✨
 
-Thanks go to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks go to these wonderful people ([emoji key](https://allcontributors.org/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
